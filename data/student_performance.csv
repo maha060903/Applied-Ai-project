@@ -1,0 +1,61 @@
+student_id,subject,quiz_score,attendance,performance_level
+STU001,Mathematics,85.5,92.0,Excellent
+STU001,Science,78.0,88.0,Good
+STU001,English,72.5,90.0,Good
+STU002,Mathematics,45.0,65.0,Poor
+STU002,Science,52.0,70.0,Below Average
+STU002,English,58.0,75.0,Below Average
+STU003,Mathematics,68.0,82.0,Average
+STU003,Science,75.0,85.0,Good
+STU003,English,80.0,88.0,Excellent
+STU004,Mathematics,55.0,72.0,Below Average
+STU004,Science,62.0,78.0,Average
+STU004,English,70.0,80.0,Good
+STU005,Mathematics,90.0,95.0,Excellent
+STU005,Science,88.0,93.0,Excellent
+STU005,English,85.0,90.0,Excellent
+STU006,Mathematics,40.0,60.0,Poor
+STU006,Science,48.0,65.0,Poor
+STU006,English,50.0,68.0,Below Average
+STU007,Mathematics,72.0,85.0,Good
+STU007,Science,68.0,80.0,Average
+STU007,English,75.0,87.0,Good
+STU008,Mathematics,65.0,78.0,Average
+STU008,Science,70.0,82.0,Good
+STU008,English,65.0,75.0,Average
+STU009,Mathematics,82.0,90.0,Excellent
+STU009,Science,79.0,88.0,Good
+STU009,English,77.0,85.0,Good
+STU010,Mathematics,50.0,70.0,Below Average
+STU010,Science,55.0,72.0,Below Average
+STU010,English,60.0,75.0,Average
+STU011,Mathematics,88.0,92.0,Excellent
+STU011,Science,85.0,90.0,Excellent
+STU011,English,82.0,88.0,Excellent
+STU012,Mathematics,58.0,75.0,Below Average
+STU012,Science,62.0,78.0,Average
+STU012,English,68.0,80.0,Average
+STU013,Mathematics,75.0,85.0,Good
+STU013,Science,72.0,83.0,Good
+STU013,English,70.0,82.0,Good
+STU014,Mathematics,42.0,62.0,Poor
+STU014,Science,45.0,65.0,Poor
+STU014,English,48.0,68.0,Poor
+STU015,Mathematics,80.0,88.0,Excellent
+STU015,Science,77.0,85.0,Good
+STU015,English,75.0,83.0,Good
+STU016,Mathematics,63.0,76.0,Average
+STU016,Science,67.0,79.0,Average
+STU016,English,65.0,77.0,Average
+STU017,Mathematics,87.0,91.0,Excellent
+STU017,Science,84.0,89.0,Excellent
+STU017,English,81.0,87.0,Excellent
+STU018,Mathematics,54.0,71.0,Below Average
+STU018,Science,58.0,74.0,Below Average
+STU018,English,56.0,72.0,Below Average
+STU019,Mathematics,71.0,84.0,Good
+STU019,Science,69.0,81.0,Average
+STU019,English,73.0,86.0,Good
+STU020,Mathematics,46.0,63.0,Poor
+STU020,Science,50.0,67.0,Below Average
+STU020,English,52.0,69.0,Below Average
